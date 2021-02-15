@@ -1,0 +1,126 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background:linear-gradient(to right, #f00c67,#fab4d0);
+    display: table;
+    width: 100%;
+    height: 100%;
+    font-family: 'Cinzel Decorative', cursive;
+}
+#name{
+    font-size:40px;
+}
+#motto{
+    font-size:20px;
+}
+#about_{
+   font-family: 'Cinzel Decorative', cursive; 
+    color:white;
+   
+}
+#alumni{
+    background:linear-gradient(to right, #73092b,#e80951);
+}
+#camplife{
+    background:linear-gradient(to right, #73092b,#e80951);
+}
+h5{
+    font-family:  'Hanalei', cursive;
+}
+.text-muted text-left{
+    font-family: color:white;
+}
+.row::after{
+    content:""
+    clear:both;
+    display:table;
+}
+.travelmainDiv{
+    width:33.33%;
+    float:left;
+    padding:5px;
+}
+.travelmainDiv{
+    width:100%
+    height:300px;
+}
+#marqueeStyle{
+  background-color:aqua;  
+  font-size:20px;
+  color:white;
+  font-family:sans-serif;
+    
+}
+.text-capitalize{
+    font-family: 'Hanalei', cursive;
+}
+#about {
+    font-family: serif;
+    padding: 50px;
+    text-align: center;
+    color:white;
+    font-size:25px;
+     background:linear-gradient(to right, #73092b,#e80951);
+}
+.logo{
+    background-color:white;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#note{
+    color:antiquewhite;
+}
+#contact{
+    background: linear-gradient(to right, #73092b,#e80951);
+}
+.line{
+    font-family:serif;
+        font-size:20px;
+    color:white;
+}
+.movie_head i{
+    float:none;
+}
+#achievements{
+    background:linear-gradient(to right, #73092b,#e80951);
+}
+input
+{
+    background: yellow;
+}
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+    font-family:fantasy;
+    color:white;
+}
+h4{
+    font-family: serif;
+}
+.nav1{
+    background-color: orangered;
+}
+.nav2{
+    background-color: blue;
+}
+.nav3{
+    background-color: greenyellow;
+}
+.nav4{
+    background-color:palevioletred;
+}
+.nav5{
+   background-color: mediumvioletred;
+}
+.nav6{
+   background-color: peachpuff;
+}
